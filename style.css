@@ -16,3 +16,8 @@ body {
 .navigation ul {
     display: flex;
 }
+
+li {
+    background-color: white;
+    text-decoration: none;
+}
